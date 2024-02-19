@@ -1,0 +1,213 @@
+Sample_seq_ID,Sample_source,Collection_date,Animal_ID,Age_category,Body_length_mm,Body_mass_g,Trapping_site,Reproduction_information,Sex,Epigenetic_age_days_Clock2
+24-1_12,Skokholm,11/07/2019,SK0026,Juvenile,NA,10.8,Observatory,Testes abdominal,Male,92.71440275
+24-1_13,Skokholm,23/08/2020,SK0057,Adult,88.8,21.1,Quarry,Testes abdominal,Male,323.0550503
+24-1_14,Skokholm,11/07/2019,SK0005,Adult,NA,26,Observatory,"Imperforate, Nipples",Female,411.7764003
+24-1_15,Skokholm,13/07/2019,SK0029,Sub-adult,NA,15,Quarry,Testes small,Female,50.59367263
+24-1_16,Skokholm,16/07/2019,SK0039,Adult,NA,26.3,Observatory,"Imperforate, Nipples",Female,301.5334517
+24-1_17,Skokholm,12/07/2019,SK0028,Adult,NA,20.8,Quarry,"Imperforate, Nipples",Female,325.6484929
+24-1_19,Skokholm,27/09/2019,SK0029,Adult,NA,28.9,Quarry,Imperforate,Female,390.479804
+24-1_2,Skokholm,01/10/2019,SK0019,NA,NA,NA,Observatory,NA,Male,388.4394358
+24-1_20,Skokholm,01/10/2019,SK0179,Adult,93,23.3,Observatory,Testes large,Male,183.2936062
+24-1_21,Skokholm,26/09/2019,X041A556CB0,Adult,84,23.5,Quarry,Testes small,Male,381.4572468
+24-1_22,Skokholm,26/09/2019,SK0034,Adult,79.9,20.5,Quarry,Testes small,Male,163.807414
+24-1_23,Skokholm,19/09/2019,SK0028,Adult,92,23.2,Quarry,Imperforate,Female,358.8488816
+24-1_24,Skokholm,04/09/2020,SK0250,Juvenile,60,13.4,Observatory,Testes abdominal,Male,98.19445558
+24-1_3,Skokholm,17/07/2019,SK0045,Sub-adult,NA,18.3,Observatory,Imperforate,Female,173.1293227
+24-1_4,Skokholm,01/10/2019,SK0039,NA,NA,NA,Observatory,NA,Female,298.2901848
+24-1_5,Skokholm,01/10/2019,SK0026,NA,NA,NA,Observatory,NA,Male,159.3579641
+24-1_6,Skokholm,23/09/2019,SK0006,Adult,NA,34.7,Observatory,"Pregnant, Perforate, Nipples",Female,380.0363203
+24-1_7,Skokholm,09/07/2019,SK0010,Adult,NA,37.7,Observatory,"Pregnant, Nipples",Female,349.30055
+24-1_8,Skokholm,17/07/2019,SK0043,Adult,NA,21.3,Observatory,Imperforate,Female,365.2520313
+24-1_9,Skokholm,19/07/2019,X041A556696,Adult,NA,23.6,Quarry,Imperforate,Female,334.7702823
+24-2_1,Skokholm,24/09/2020,SK0247,Juvenile,64.8,11.6,Quarry,Testes abdominal,Male,138.1818586
+24-2_10,Skokholm,10/07/2019,SK0019,Adult,NA,25.9,Observatory,Testes small,Male,358.2047499
+24-2_11,Skokholm,22/09/2019,SK0010,Adult,99.5,43,Observatory,"Pregnant, Imperforate",Female,386.2948735
+24-2_12,Skokholm,18/09/2019,SK0057,Adult,86.8,20.4,Quarry,Testes large,Male,179.4845726
+24-2_13,Skokholm,01/10/2019,SK0005,Adult,99.5,25.8,Observatory,Imperforate,Female,246.6034902
+24-2_14,Skokholm,12/09/2020,X041A1F31EF,Juvenile,64,11.4,Quarry,Testes abdominal,Male,108.7122298
+24-2_15,Skokholm,26/09/2020,SK0250,Sub-adult,82.9,19.2,Observatory,Testes small,Male,130.5465536
+24-2_17,Skokholm,30/09/2019,SK0001,Adult,98.2,27.2,Observatory,Imperforate,Female,398.8969314
+24-2_18,Skokholm,01/10/2019,SK0003,NA,NA,NA,Observatory,NA,Female,366.7124381
+24-2_19,Skokholm,19/09/2019,SK0009,Adult,92.4,24.8,Quarry,NA,Male,424.5275162
+24-2_2,Skokholm,14/07/2019,SK0034,Juvenile,NA,10.8,Quarry,Testes abdominal,Male,77.90772097
+24-2_20,Skokholm,12/07/2019,SK0009,Adult,NA,24.2,Quarry,Testes small,Male,253.7016648
+24-2_21,Skokholm,10/07/2019,SK0006,Adult,NA,32.6,Observatory,"Nipples, Imperforate",Female,343.3710465
+24-2_22,Skokholm,20/09/2019,SK0054,Adult,78,26.2,Quarry,Imperforate,Female,388.9241914
+24-2_23,Skokholm,28/09/2020,SK0223,Juvenile,71.9,10.2,Observatory,Imperforate,Unclear,182.9537244
+24-2_3,Skokholm,04/09/2020,SK0179,Adult,90.3,22.1,Observatory,Testes abdominal,Male,366.4646615
+24-2_6,Skokholm,18/09/2019,SK0053,Sub-adult,63.6,16.6,Quarry,Imperforate,Female,203.629586
+24-2_7,Skokholm,25/09/2019,SK0035,Adult,88.2,24.9,Quarry,Imperforate,Female,78.16849982
+24-2_8,Skokholm,01/10/2019,SK0043,NA,NA,NA,Observatory,NA,Female,230.9039519
+24-2_9,Skokholm,30/09/2019,SK0045,Adult,92.2,20.5,Observatory,Imperforate,Female,167.8937287
+96-1_16,Skokholm,19/04/2021,SK0331,Adult,84.6,21.4,Quarry,Imperforate,Female,327.3055537
+96-1_24,Skokholm,29/04/2021,SK0349,Sub-adult,84.6,15.8,Quarry,Perforate,Female,242.7788242
+96-1_32,Skokholm,20/04/2021,SK0341,Sub-adult,82.2,17.1,Quarry,Imperforate,Female,251.1706509
+96-1_40,Skokholm,20/04/2021,SK0332,Sub-adult,92.5,19.8,Quarry,Testes abdominal,Male,296.5596726
+96-1_48,Skokholm,28/09/2020,SK0235,Sub-adult,70.3,17.9,Observatory,Testes small,Male,158.526416
+96-1_64,Skokholm,04/09/2020,X041A1F294B,Sub-adult,85,17.4,Observatory,Testes small,Male,99.27966905
+96-1_71,Skokholm,15/04/2021,SK0284,Adult,85.5,20.7,Observatory,Testes abdominal,Male,270.3764882
+96-1_72,Skokholm,19/09/2020,SK0278,Juvenile,68.6,12,Observatory,Testes abdominal,Male?,123.4334449
+96-1_79,Skokholm,15/04/2021,SK0290,Adult,92.5,27.8,Observatory,"Imperforate, NIPP",Female,314.786104
+96-1_8,Skokholm,16/04/2021,SK0281,Adult,86.7,20.1,Observatory,Imperforate,Female,290.0651338
+96-1_80,Skokholm,15/09/2020,SK0247,Juvenile,64.4,8.8,Quarry,Testes abdominal,Male,101.5202311
+96-1_87,Skokholm,18/09/2020,SK0225,Adult,86.9,23.9,Observatory,Imperforate,Unclear,424.2676918
+96-1_95,Skokholm,16/09/2020,SK0267,Juvenile,64.8,8.8,Quarry,Testes abdominal,Unclear,81.95353287
+96-2_11,Skokholm,16/09/2020,SK0269,Sub-adult,76.7,17.2,Quarry,Testes small,Male,152.3404986
+96-2_12,Skokholm,01/05/2019,SK0009,Adult,NA,21.9,Quarry,Testes small,Male,192.3942186
+96-2_13,Skokholm,19/09/2019,SK0028,Adult,92,23.2,Quarry,Imperforate,Female,343.1030241
+96-2_14,Skokholm,23/09/2020,SK0295,Sub-adult,74.5,16.5,Quarry,Imperforate,Female,78.40988684
+96-2_15,Skokholm,16/09/2020,SK0268,Juvenile,62.7,7.1,Quarry,Imperforate,F?,-17.95263515
+96-2_16,Skokholm,12/07/2019,SK0013,Adult,NA,22.9,Quarry,Testes small,Male,376.1253203
+96-2_17,Skokholm,22/09/2019,SK0101,Juvenile,63.8,9.1,Observatory,Imperforate,Female,168.8968116
+96-2_18,Skokholm,23/09/2019,SK0100,Sub-adult,74.5,16.4,Observatory,Imperforate,Female,172.7813487
+96-2_19,Skokholm,09/07/2019,SK0006,Adult,NA,37,Observatory,"Pregnant, Comment",Female,358.5456802
+96-2_2,Skokholm,27/09/2020,SK0223,Juvenile,59.9,9.4,Observatory,Imperforate,Unclear,128.1348074
+96-2_20,Skokholm,17/07/2019,SK0006,Adult,NA,30.1,Observatory,Imperforate,Female,323.7163263
+96-2_21,Skokholm,01/10/2019,SK0180,Juvenile,76.7,13.4,Observatory,Testes abdominal,Male,168.9806858
+96-2_22,Skokholm,20/07/2019,SK0052,Adult,NA,21.7,Quarry,"Imperforate, Comment",Female,351.0491427
+96-2_23,Skokholm,25/09/2019,SK0128,Juvenile,64.5,10.2,Quarry,Imperforate,Female,94.30097426
+96-2_24,Skokholm,01/05/2019,SK0006,Adult,NA,28.3,Observatory,"Imperforate, Nipples",Female,266.4726015
+96-2_26,Skokholm,11/07/2019,SK0024,Juvenile,NA,9.9,Observatory,Testes abdominal,Male?,108.5546381
+96-2_27,Skokholm,29/08/2020,SK0235,Sub-adult,79,16.7,Observatory,Testes small,Male,138.2045291
+96-2_28,Skokholm,19/08/2020,SK0209,Adult,90.2,23.8,Observatory,Testes small,Male,255.5913068
+96-2_29,Skokholm,24/09/2020,SK0309,Juvenile,73.7,12.6,Quarry,Imperforate,Female,133.9085185
+96-2_3,Skokholm,24/09/2020,SK0247,Juvenile,64.8,11.6,Quarry,Testes abdominal,Male,123.9330046
+96-2_31,Skokholm,26/09/2020,SK0223,Juvenile,65.9,9,Observatory,Imperforate,Unclear,125.6951878
+96-2_32,Skokholm,27/09/2019,SK0155,Adult,88.5,23.8,Quarry,Testes small,Male,139.3482143
+96-2_34,Skokholm,10/09/2020,SK0223,Juvenile,66.1,7.5,Observatory,Imperforate,Unclear,97.76981248
+96-2_35,Skokholm,15/07/2019,SK0024,Juvenile,NA,10.5,Observatory,Testes abdominal,Male?,82.56402982
+96-2_37,Skokholm,17/07/2019,SK0002,Adult,NA,26,Observatory,Testes small,Male,344.5624217
+96-2_38,Skokholm,04/09/2020,SK0249,Sub-adult,76.1,18.9,Observatory,Testes abdominal,Male,187.207522
+96-2_39,Skokholm,02/05/2019,SK0014,Adult,NA,21.2,Quarry,Imperforate,Female,318.6683722
+96-2_4,Skokholm,21/09/2019,SK0019,Adult,90.8,27.6,Observatory,Testes small,Male,425.5333759
+96-2_40,Skokholm,29/08/2020,SK0224,Adult,83.7,21.4,Observatory,Testes abdominal,Male,167.0174003
+96-2_41,Skokholm,27/09/2019,SK0157,Juvenile,66.4,10.3,Quarry,Testes abdominal,Male,120.5240276
+96-2_42,Skokholm,28/09/2020,SK0315,Juvenile,61.5,7.6,Observatory,Testes abdominal,Male,90.05457547
+96-2_44,Skokholm,26/09/2020,SK0255,Juvenile,70.9,9.8,Observatory,Imperforate,Female?,138.9491921
+96-2_45,Skokholm,27/09/2020,SK0255,Juvenile,67.5,9.7,Observatory,Imperforate,Female?,128.6417184
+96-2_46,Skokholm,10/09/2020,SK0235,Sub-adult,86.5,17.6,Observatory,Testes small,Male,169.9469294
+96-2_47,Skokholm,10/07/2019,SK0010,Adult,NA,33.6,Observatory,"Imperforate, Pregnant, Nipples",Female,353.7323365
+96-2_5,Skokholm,27/09/2019,SK0029,Adult,NA,28.9,Quarry,Imperforate,Female,306.941405
+96-2_50,Skokholm,24/09/2020,SK0311,Juvenile,67.8,9.3,Quarry,Testes abdominal,Male,142.3403236
+96-2_51,Skokholm,26/09/2019,SK0141,Adult,90,31.9,Quarry,"Imperforate, Pregnant?",Female,240.0594646
+96-2_52,Skokholm,26/09/2019,SK0146,Juvenile,71.3,13.6,Quarry,Imperforate,Female,57.04254397
+96-2_53,Skokholm,10/09/2020,SK0234,Sub-adult,81.9,18.6,Observatory,Imperforate,Female,177.3302848
+96-2_54,Skokholm,16/09/2020,X041A1F3083,Sub-adult,74,16.6,Quarry,Perforate,Female,127.2037064
+96-2_55,Skokholm,11/07/2019,SK0026,Juvenile,NA,10.8,Observatory,Testes abdominal,Male,101.4542834
+96-2_56,Skokholm,01/10/2019,SK0179,Adult,93,23.3,Observatory,Testes large,Male,160.9940953
+96-2_57,Skokholm,27/09/2020,SK0315,Juvenile,62.9,7.1,Observatory,Testes abdominal,Male,75.50625639
+96-2_59,Skokholm,09/07/2019,SK0003,Adult,NA,25.6,Observatory,"Imperforate, Nipples",Female,339.4600961
+96-2_6,Skokholm,15/09/2020,SK0267,Juvenile,59.2,8.7,Quarry,Imperforate,Unclear,97.38208614
+96-2_60,Skokholm,14/07/2019,SK0036,Adult,NA,26.3,Quarry,Testes abdominal,Male,333.5883692
+96-2_61,Skokholm,20/07/2019,SK0029,Sub-adult,NA,16,Quarry,Testes abdominal,Female,109.2132534
+96-2_62,Skokholm,14/07/2019,SK0028,Adult,NA,21.7,Quarry,Imperforate,Female,322.2770209
+96-2_63,Skokholm,02/05/2019,SK0013,Adult,NA,20.8,Quarry,Testes small,Male,297.2789059
+96-2_64,Skokholm,16/07/2019,SK0039,Adult,NA,26.3,Observatory,"Imperforate, Nipples",Female,277.9948706
+96-2_65,Skokholm,22/09/2019,SK0103,Juvenile,66,11.5,Observatory,Testes abdominal,Male,60.83093891
+96-2_66,Skokholm,22/09/2019,SK0003,Adult,98.2,27.5,Observatory,Perforate,Female,217.7564125
+96-2_68,Skokholm,18/09/2020,SK0255,Juvenile,65.4,9.4,Observatory,Imperforate,Female?,131.7795983
+96-2_7,Skokholm,01/10/2019,SK0175,Juvenile,70,9.3,Observatory,Imperforate,Female,110.6810064
+96-2_70,Skokholm,26/09/2020,SK0282,Juvenile,75.8,11.9,Observatory,Testes abdominal,Male,95.88517764
+96-2_71,Skokholm,19/08/2020,SK0179,Adult,91.8,24.5,Observatory,Testes abdominal,Male,337.0887396
+96-2_72,Skokholm,11/07/2019,SK0005,Adult,NA,26,Observatory,"Imperforate, Nipples",Female,311.6761379
+96-2_73,Skokholm,19/09/2020,SK0284,Juvenile,54.6,7,Observatory,Testes abdominal,Male,131.2193245
+96-2_74,Skokholm,19/09/2020,SK0286,Juvenile,73.8,11.1,Observatory,Imperforate,Female,138.3187978
+96-2_75,Skokholm,18/07/2019,SK0028,Adult,NA,22.7,Quarry,Imperforate,Female,309.7853857
+96-2_76,Skokholm,22/09/2019,SK0006,Adult,101,33.4,Observatory,"Perforate, Pregnant, Nipples",Female,393.8745691
+96-2_77,Skokholm,16/07/2019,SK0042,Juvenile,NA,5.9,Observatory,Testes abdominal,Male?,86.39584179
+96-2_78,Skokholm,16/07/2019,SK0003,Adult,NA,25.1,Observatory,"Perforate, Comment",Female,331.4119345
+96-2_79,Skokholm,19/09/2020,SK0290,Adult,85.8,23.3,Observatory,"Testes abdominal, Imperforate",Female,201.619047
+96-2_8,Skokholm,18/07/2019,SK0047,Juvenile,NA,7.8,Quarry,Testes abdominal,Male?,96.88882101
+96-2_80,Skokholm,28/09/2020,SK0223,Juvenile,71.9,10.2,Observatory,Imperforate,Unclear,81.70246182
+96-2_81,Skokholm,28/09/2020,SK0318,Juvenile,69,7.1,Observatory,Imperforate,Female,104.1800495
+96-2_82,Skokholm,22/09/2019,SK0110,Juvenile,69.2,9.2,Observatory,Imperforate,Female?,100.570708
+96-2_83,Skokholm,15/07/2019,SK0001,Adult,NA,30.6,Observatory,Nipples,Female,352.5737442
+96-2_84,Skokholm,28/09/2020,SK0234,Sub-adult,86.7,18.3,Observatory,Imperforate,Female,208.5175241
+96-2_85,Skokholm,26/09/2020,SK0312,Juvenile,63.5,9.5,Observatory,Imperforate,Unclear,97.00474283
+96-2_86,Skokholm,24/09/2020,SK0222,Adult,92.6,24.2,Quarry,Testes abdominal,Male,362.8663318
+96-2_87,Skokholm,18/07/2019,SK0012,Adult,NA,28.7,Quarry,"Imperforate, Nipples, Comment",Female,233.0360393
+96-2_89,Skokholm,19/09/2019,SK0061,Adult,87.9,23.8,Quarry,Imperforate,Female,171.4786835
+96-2_9,Skokholm,27/09/2019,SK0156,Juvenile,52,6.8,Quarry,Imperforate,Female,111.8351006
+96-2_90,Skokholm,28/09/2020,SK0326,Juvenile,57.7,6.2,Observatory,Testes abdominal,Male,79.79471924
+96-2_91,Skokholm,26/09/2020,SK0321,Sub-adult,84.3,15.9,Observatory,,Male,198.3428392
+96-2_93,Skokholm,20/09/2019,SK0077,Juvenile,75.4,11,Quarry,Testes abdominal,Male,120.249382
+96-2_94,Skokholm,13/07/2019,SK0032,Juvenile,NA,8.5,Quarry,Testes abdominal,Male?,99.98555251
+96-3_1,Skokholm,27/09/2020,SK0326,Juvenile,60,7.4,Observatory,Testes abdominal,Male,81.46952516
+96-3_10,Skokholm,28/09/2020,SK0209,Adult,91.5,24,Observatory,Testes large,Male,348.1767245
+96-3_11,Skokholm,15/04/2021,SK0321,Adult,89,24.4,Observatory,Testes small,Male,273.0407394
+96-3_12,Skokholm,11/07/2019,SK0025,Juvenile,NA,10.5,Observatory,Testes abdominal,Male?,29.6601336
+96-3_13,Skokholm,18/09/2019,SK0029,Adult,88.5,26,Quarry,Imperforate,Female,299.0549922
+96-3_14,Skokholm,20/07/2019,SK0015,Adult,NA,24.9,Quarry,Testes small,Male,375.7108815
+96-3_15,Skokholm,20/07/2019,SK0013,Adult,NA,23.2,Quarry,Testes abdominal,Male,383.4755699
+96-3_16,Skokholm,28/09/2020,SK0313,Sub-adult,82.8,16.7,Observatory,Testes abdominal,Male,111.3731373
+96-3_17,Skokholm,17/04/2021,SK0321,Adult,94.5,23.8,Observatory,Testes abdominal,Male,224.482969
+96-3_18,Skokholm,29/04/2021,SK0269,Adult,89.2,21.2,Quarry,Testes abdominal,Male,72.77780644
+96-3_19,Skokholm,25/04/2021,SK0284,Sub-adult,93.7,18.6,Observatory,Testes abdominal,Male,249.8941468
+96-3_2,Skokholm,04/09/2020,SK0209,Adult,88,25.7,Observatory,Testes large,Male,331.4393403
+96-3_20,Skokholm,16/04/2021,SK0326,Adult,89.3,20.2,Observatory,Testes abdominal,Male,169.5644033
+96-3_21,Skokholm,30/09/2019,SK0114,Juvenile,76.6,13.8,Observatory,Testes abdominal,Male,88.06547885
+96-3_22,Skokholm,19/09/2020,X041A1F2FC6,Sub-adult,72.1,15.5,Observatory,Imperforate,Unclear,-13.03873957
+96-3_23,Skokholm,25/04/2021,SK0290,Adult,100,29.7,Observatory,"Perforate, Pregnant??",Female,333.9508084
+96-3_24,Skokholm,20/07/2019,SK0050,Adult,NA,26.1,Quarry,Imperforate,Female,242.0946412
+96-3_25,Skokholm,19/04/2021,SK0329,Sub-adult,89,18,Quarry,Testes abdominal,Male,104.2499479
+96-3_27,Skokholm,20/09/2020,SK0293,Juvenile,73.6,12.2,Observatory,Imperforate,Female,122.7155163
+96-3_28,Skokholm,18/09/2020,SK0281,Juvenile,77.8,14.3,Observatory,Imperforate,Female,145.0112129
+96-3_29,Skokholm,17/07/2019,SK0046,Sub-adult,NA,19.6,Observatory,Testes large,Male,111.4107844
+96-3_3,Skokholm,29/08/2020,SK0234,Sub-adult,90.5,18.3,Observatory,"Imperforate, NIPP",Female,169.1467095
+96-3_30,Skokholm,17/07/2019,SK0044,Juvenile,NA,11.8,Observatory,Imperforate,Female,81.19983254
+96-3_31,Skokholm,27/09/2020,SK0235,Sub-adult,77.7,18.6,Observatory,Testes abdominal,Male,185.5147602
+96-3_33,Skokholm,27/08/2020,SK0225,Adult,87.5,23.9,Observatory,Testes abdominal,Unclear,270.8755028
+96-3_34,Skokholm,20/04/2021,SK0336,Sub-adult,79,17.2,Quarry,Imperforate,Female,259.2055466
+96-3_35,Skokholm,24/08/2020,SK0222,Adult,92.1,25.9,Quarry,Testes small,Male,199.3138637
+96-3_36,Skokholm,28/09/2020,SK0224,Adult,88.7,23.6,Observatory,Testes small,Male,178.9845732
+96-3_37,Skokholm,28/04/2021,SK0349,Sub-adult,81,16.7,Quarry,Imperforate,Female,261.6688877
+96-3_38,Skokholm,02/05/2019,SK0016,Adult,NA,21.4,Quarry,Testes abdominal,Male,292.0417949
+96-3_39,Skokholm,18/09/2019,SK0054,Adult,NA,25,Quarry,"Nipples, Imperforate, Lactating",Female,352.96583
+96-3_4,Skokholm,18/09/2020,SK0278,Juvenile,64.7,10.4,Observatory,Testes abdominal,Male?,90.80297309
+96-3_40,Skokholm,23/08/2020,SK0057,Adult,88.8,21.1,Quarry,Testes abdominal,Male,346.4854402
+96-3_41,Skokholm,25/09/2019,SK0071,Sub-adult,76.5,12,Quarry,Perforate,Female,292.608193
+96-3_42,Skokholm,20/09/2020,SK0291,Sub-adult,73.3,18.9,Observatory,Testes small,Male,184.3315312
+96-3_43,Skokholm,25/04/2021,SK0231,Adult,87.3,22.5,Observatory,Testes abdominal,Male,314.4229283
+96-3_45,Skokholm,30/04/2019,SK0002,Adult,NA,23.4,Observatory,Testes small,Male,312.5776361
+96-3_46,Skokholm,29/04/2021,SK0352,Sub-adult,76,16.6,Quarry,Perforate,Female,281.3896047
+96-3_49,Skokholm,25/04/2021,SK0347,Adult,88,22.2,Observatory,Testes abdominal,Male,313.1941376
+96-3_5,Skokholm,02/05/2019,SK0012,Adult,NA,24.8,Quarry,Imperforate,Female,300.742634
+96-3_50,Skokholm,15/04/2021,SK0319,Sub-adult,86,17.7,Observatory,Imperforate,Female,258.1047326
+96-3_51,Skokholm,15/04/2021,SK0293,Adult,93.5,20.6,Observatory,Imperforate,Female,302.0269944
+96-3_52,Skokholm,29/04/2021,SK0351,Adult,93.1,22.9,Quarry,Testes abdominal,Male,367.1319554
+96-3_53,Skokholm,17/04/2021,SK0238,Adult,88,25.9,Observatory,Testes small,Male,257.8796937
+96-3_54,Skokholm,01/05/2019,SK0005,Adult,NA,24.1,Observatory,Imperforate,Female,37.23138105
+96-3_55,Skokholm,28/04/2021,SK0350,Adult,81.3,26.2,Quarry,Testes large,Male,234.879241
+96-3_57,Skokholm,29/04/2021,SK0354,Adult,87.5,24.4,Quarry,Testes abdominal,Male,322.6944737
+96-3_58,Skokholm,18/09/2020,SK0223,Juvenile,68,7.2,Observatory,Imperforate,Unclear,111.9809811
+96-3_59,Skokholm,10/09/2020,SK0224,Adult,87.2,22.2,Observatory,Testes small,Male,185.2331268
+96-3_6,Skokholm,30/04/2019,SK0001,Adult,NA,26,Observatory,Imperforate,Female,192.1556354
+96-3_60,Skokholm,19/07/2019,NA,Juvenile,NA,11.2,Quarry,Testes abdominal,Male?,66.80282763
+96-3_62,Skokholm,28/09/2020,23?,Sub-adult,88.1,9.4,Observatory,Testes small,Male,198.5910614
+96-3_63,Skokholm,22/09/2019,SK0045,Adult,84,23.8,Observatory,Imperforate,Female,156.3832931
+96-3_65,Skokholm,15/04/2021,SK0323,Sub-adult,86.3,18.6,Observatory,Imperforate,Female,254.282649
+96-3_66,Skokholm,28/09/2020,X041A1F2FC6,Sub-adult,80.8,17.7,Observatory,Imperforate,Unclear,158.2111612
+96-3_67,Skokholm,25/04/2021,SK0319,Sub-adult,85.2,16.1,Observatory,Imperforate,Female,291.0978239
+96-3_69,Skokholm,18/07/2019,SK0049,Sub-adult,NA,11.2,Quarry,Testes small,Male,92.47269533
+96-3_7,Skokholm,27/09/2019,SK0150,Juvenile,67.6,6.1,Quarry,Testes abdominal,Male,134.6524209
+96-3_70,Skokholm,20/07/2019,SK0053,Juvenile,NA,10,Quarry,Imperforate,Female,117.6845567
+96-3_71,Skokholm,23/09/2019,SK0127,Juvenile,73.5,15,Observatory,Testes abdominal,Male,91.07398968
+96-3_73,Skokholm,01/10/2019,SK0046,NA,NA,NA,Observatory,NA,Male,26.20127435
+96-3_74,Skokholm,16/04/2021,SK0325,Adult,86.2,21.5,Observatory,Imperforate,Female,331.3162964
+96-3_75,Skokholm,02/05/2019,SK0015,Sub-adult,NA,16.7,Quarry,Imperforate,Male,324.5134276
+96-3_76,Skokholm,01/10/2019,SK0177,Juvenile,73,10.7,Observatory,Imperforate,Female,134.7405775
+96-3_77,Skokholm,30/09/2019,SK0162,Juvenile,79.4,11.7,Observatory,Imperforate,Female,164.4033455
+96-3_79,Skokholm,19/09/2019,SK0062,Juvenile,70.4,12.8,Quarry,Testes abdominal,Male,118.090065
+96-3_8,Skokholm,01/10/2019,SK0043,NA,NA,NA,Observatory,NA,Female,193.4203112
+96-3_81,Skokholm,19/07/2019,SK0051,Juvenile,NA,9.1,Quarry,Testes abdominal,Male?,240.106068
+96-3_82,Skokholm,19/04/2021,SK0309,Sub-adult,85,18.3,Quarry,Imperforate,Female,280.1600469
+96-3_85,Skokholm,15/04/2021,SK0322,Adult,88.6,22.6,Observatory,Imperforate,Female,296.0983895
+96-3_86,Skokholm,22/09/2019,SK0010,Adult,99.5,43,Observatory,"Pregnant, Imperforate",Female,381.4591265
+96-3_87,Skokholm,13/07/2019,SK0031,Adult,NA,23,Quarry,Imperforate,Female,309.3104519
+96-3_89,Skokholm,23/04/2021,SK0344,Adult,90.8,22.9,Observatory,Imperforate,Female,312.2370418
+96-3_9,Skokholm,25/04/2021,SK0346,Juvenile,78.5,14.3,Observatory,Imperforate,Female,117.9803766
+96-3_90,Skokholm,20/04/2021,SK0338,Sub-adult,82.8,17.2,Quarry,Imperforate,Female,251.3736529
+96-3_91,Skokholm,24/04/2021,SK0321,Adult,94.3,24.6,Observatory,Testes large,Male,219.9100077
+96-3_92,Skokholm,30/04/2019,SK0003,Adult,NA,25,Observatory,Testes abdominal,Female,291.737438
+96-3_93,Skokholm,23/09/2019,SK0039,Adult,94.6,27.3,Observatory,"Imperforate, Pregnant?",Female,175.4510386
+96-3_94,Skokholm,25/04/2021,SK0293,Adult,86.6,20.6,Observatory,Perforate,Female,272.1510004
